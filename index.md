@@ -3,7 +3,7 @@
 Privacy policies for **Representations: Binary & Hex**.
 
 - [Android privacy policy](./android/)
-- [iOS privacy policy](./ios/)
+- [Apple-platform privacy policy](./ios/)
 - [Windows privacy policy](./windows/)
 
 ## Contact

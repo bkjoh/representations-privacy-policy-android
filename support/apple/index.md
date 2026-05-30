@@ -10,7 +10,7 @@ When reporting an issue, include the platform, operating system version, device 
 
 ## Privacy
 
-Representations: Binary & Hex is designed to work offline. It does not require an account, advertisements, analytics, tracking, network access, payments, subscriptions, or runtime permissions.
+Representations: Binary & Hex keeps reference browsing and search local. It does not require a developer-managed account, advertisements, analytics, tracking, payments, subscriptions, or runtime permissions. UTF-8 Favorites can sync through Apple iCloud when iCloud is available for the signed-in Apple Account.
 
 Read the Apple-platform privacy policy:
 
@@ -20,6 +20,8 @@ Read the Apple-platform privacy policy:
 
 - If reference data is unavailable, delete and reinstall the application so the bundled database is restored.
 - If copy actions do not appear on Apple Watch, use the iOS, iPadOS, or macOS application to copy values.
+- If Favorites do not sync, confirm the devices are signed in to the same Apple Account, iCloud is enabled, and each device has had time to process iCloud key-value updates.
+- If favorite star controls do not appear on Apple Watch, use the iOS, iPadOS, or macOS application to edit Favorites, then filter the synced Favorites named set on Apple Watch.
 - If search results look stale, clear the search field and enter the query again.
 - If a privacy policy or email link does not open, confirm that the device has a browser or email application configured.
 
